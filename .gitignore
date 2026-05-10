@@ -4,6 +4,9 @@
 # Log file
 *.log
 
+# Ignore bin directory
+bin/
+
 # BlueJ files
 *.ctxt
 
